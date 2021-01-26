@@ -54,6 +54,15 @@ const talks = [
         description: "Looked into the current status of Progressive Web Apps in the Philippines and how it can flourish as a platform in the near future."
     },
     {
+        title: "Introduction to Progressive Web Apps",
+        event: "Online Saturday Sessions",
+        organizer: "techph.org",
+        location: "Facebook Live",
+        date: "June 13, 2020",
+        url: "https://facebook.com/techphorg/posts/141834377476476",
+        description: "Gave the basics of Progressive Web Apps"
+    },
+    {
         title: "Bringing your PWA Angular app to the Play Store",
         event: "Angular PH Year-end Meetup",
         organizer: "Angular Philippines",
