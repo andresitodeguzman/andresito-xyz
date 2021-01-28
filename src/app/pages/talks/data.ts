@@ -63,6 +63,15 @@ const talks = [
         description: "Gave the basics of Progressive Web Apps"
     },
     {
+        title: "Introduction to Progressive Web Apps",
+        event: "Webinar #14",
+        organizer: "Women Techmakers Manila",
+        location: "Facebook Live & YouTube",
+        date: "August 4, 2020",
+        url: "https://facebook.com/wtmmanila/1517181675133048",
+        description: "Another Intro to PWA talk for WTM Manila"
+    },
+    {
         title: "Bringing your PWA Angular app to the Play Store",
         event: "Angular PH Year-end Meetup",
         organizer: "Angular Philippines",
