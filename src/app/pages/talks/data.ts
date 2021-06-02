@@ -79,6 +79,15 @@ const talks = [
         date: "December 5, 2020",
         url: "https://www.youtube.com/watch?v=7RCj3KuoKgE",
         description: "Gave a talk on how to bring your Angular Progressive Web App projects into the Play Store using PWA Builder."
+    },
+    {
+        title: "Introduction to Progressive Web Apps",
+        event: "FFED Live Series #9",
+        organizer: "Filipino Front-end Developers",
+        location: "Facebook Live & YouTube",
+        date: "March 26, 2021",
+        url: "https://www.youtube.com/watch?v=nl3234MN25w",
+        description: "Gave an introduction to Progressive Web Apps to hundreds of Front-end developers in the country."
     }
 ];
 

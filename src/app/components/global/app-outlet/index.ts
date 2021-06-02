@@ -1,4 +1,5 @@
-import { LitElement, html, property } from 'lit-element';
+import { LitElement } from 'lit';
+import { property } from 'lit/decorators.js';
 import { unsafeHTML } from 'lit-html/directives/unsafe-html.js';
 
 const componentName = 'outlet';

@@ -1,4 +1,4 @@
-import { LitElement, property } from 'lit-element';
+import { LitElement } from 'lit';
 import { template } from './template';
 
 const componentName = 'footerbar';
