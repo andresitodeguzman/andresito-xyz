@@ -20,7 +20,7 @@
     "lit": "*",
     "rollup-plugin-serve": "^1.1.0",
     "typewriter-effect": "^2.17.0",
-    "urlpattern-polyfill": "^0.1.6"
+    "urlpattern-polyfill": "^7.0.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "11.0.1",
