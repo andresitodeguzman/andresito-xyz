@@ -19,7 +19,7 @@
   "dependencies": {
     "lit": "*",
     "rollup-plugin-serve": "^1.1.0",
-    "typewriter-effect": "^2.17.0",
+    "typewriter-effect": "^3.0.0",
     "urlpattern-polyfill": "^0.1.6"
   },
   "devDependencies": {
